@@ -19,3 +19,5 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 
 ## 📄 Certifications
 ![](https://img.shields.io/badge/MOS-Microsoft%20Word%202016-orange/?color=orange)
+![](https://img.shields.io/badge/MOS-Microsoft%20Excel%202016-orange/?color=orange)
+![](https://img.shields.io/badge/MOS-Microsoft%20PowerPoint%202016-orange/?color=orange)
