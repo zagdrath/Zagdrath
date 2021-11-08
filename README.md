@@ -27,4 +27,5 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 ![](https://img.shields.io/badge/MTA-Security%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/MTA-Mobility%20and%20Device%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Certiport-Communication%20Skills%20for%20Business-orange/?color=orange)
-<a href="https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst"><img src="https://img.shields.io/static/v1?label=Question&message=Unanswered&color=lightgrey&link=https://stackoverflow.com" /></a>
+
+<a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF" /></a>
