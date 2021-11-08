@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/zagdrath/Zagdrath/main/readme-header.png "Header")](https://www.codexsystems.us/)
 
-## 📄 About Me
+## 📋 About Me
 
 Hey, my name is Cody Wellman and I am a software developer aswell as a computer builder/enthusiast. I am currently working on my Associates in Computer Networking Systems and Security. I am also on FRC Team 3602, The RoboMos.
 
@@ -16,3 +16,6 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 ![](https://img.shields.io/badge/Shell-Bash-orange/?logo=gnu%20bash&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Tools-Git-orange/?logo=git&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Tools-GitHub-orange/?logo=github&color=orange&logoColor=FFFFFF)
+
+## 📄 Certifications
+![](https://img.shields.io/badge/MOS-Microsoft%20Word%202016-orange/?color=orange)
