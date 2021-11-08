@@ -6,6 +6,7 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 
 <a href="https://twitter.com/zagdrath"><img src="https://img.shields.io/badge/Twitter-Profile-orange/?logo=twitter&color=orange&logoColor=FFFFFF" /></a>
 <a href="https://instagram.com/zagdrath"><img src="https://img.shields.io/badge/Instagram-Profile-orange/?logo=instagram&color=orange&logoColor=FFFFFF" /></a>
+<a href="https://www.youtube.com/channel/UCAnDOqIWKDbmEhDOZAhkV7w"><img src="https://img.shields.io/badge/YouTube-Profile-orange/?logo=youtube&color=orange&logoColor=FFFFFF" /></a>
 
 ## ⚙️ Technologies
 <a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF" /></a>
