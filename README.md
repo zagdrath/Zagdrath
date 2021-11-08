@@ -3,6 +3,7 @@
 ## 📋 About Me
 
 Hey, my name is Cody Wellman and I am a software developer aswell as a computer builder/enthusiast. I am currently working on my Associates in Computer Networking Systems and Security. I am also on FRC Team 3602, The RoboMos.
+
 <a href="https://twitter.com/zagdrath"><img src="https://img.shields.io/badge/Twitter-Profile-orange/?logo=twitter&color=orange&logoColor=FFFFFF" /></a>
 
 ## ⚙️ Technologies
@@ -17,14 +18,3 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell-Bash-orange/?logo=gnu%20bash&color=orange&logoColor=FFFFFF" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Tools-Git-orange/?logo=git&color=orange&logoColor=FFFFFF" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Tools-GitHub-orange/?logo=github&color=orange&logoColor=FFFFFF" /></a>
-
-## 📄 Certifications
-![](https://img.shields.io/badge/MOS-Microsoft%20Word%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MOS-Microsoft%20Excel%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MOS-Microsoft%20PowerPoint%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MTA-Windows%20Operating%20System%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MTA-Windows%20Server%20Administration%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MTA-Networking%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MTA-Security%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/MTA-Mobility%20and%20Device%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Certiport-Communication%20Skills%20for%20Business-orange/?color=orange)
