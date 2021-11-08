@@ -5,7 +5,7 @@
 Hey, my name is Cody Wellman and I am a software developer aswell as a computer builder/enthusiast. I am currently working on my Associates in Computer Networking Systems and Security. I am also on FRC Team 3602, The RoboMos.
 
 ## ⚙️ Technologies
-![](https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF)
+![](https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF)(https://www.linux.org/)
 ![](https://img.shields.io/badge/OS-macOS-orange/?logo=apple&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/OS-Windows-orange/?logo=windows&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Editor-VS%20Code-orange/?logo=visual%20studio%20code&color=orange&logoColor=FFFFFF)
