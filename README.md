@@ -12,3 +12,5 @@
 ![](https://img.shields.io/badge/Shell-Bash-orange/?logo=gnu%20bash&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Tools-Git-orange/?logo=git&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Tools-GitHub-orange/?logo=github&color=orange&logoColor=FFFFFF)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7610E&size=45&center=true&multiline=true&width=550&height=150&lines=Cody+Wellman;Software+Developer)](https://git.io/typing-svg)
