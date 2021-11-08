@@ -15,7 +15,7 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.shields.io/badge/Code-CSS-orange/?logo=CSS3&color=orange&logoColor=FFFFFF" /></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell-Bash-orange/?logo=gnu%20bash&color=orange&logoColor=FFFFFF" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Tools-Git-orange/?logo=git&color=orange&logoColor=FFFFFF" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Tools-GitHub-orange/?loghttps://img.shields.io/badge/Tools-Git-orange/?logo=git&color=orange&logoColor=FFFFFFo=github&color=orange&logoColor=FFFFFF" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Tools-GitHub-orange/?logo=github&color=orange&logoColor=FFFFFF" /></a>
 
 ## 📄 Certifications
 ![](https://img.shields.io/badge/MOS-Microsoft%20Word%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
