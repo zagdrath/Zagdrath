@@ -18,6 +18,6 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 ![](https://img.shields.io/badge/Tools-GitHub-orange/?logo=github&color=orange&logoColor=FFFFFF)
 
 ## 📄 Certifications
-![](https://img.shields.io/badge/MOS-Microsoft%20Word%202016-orange/?color=orange)
-![](https://img.shields.io/badge/MOS-Microsoft%20Excel%202016-orange/?color=orange)
-![](https://img.shields.io/badge/MOS-Microsoft%20PowerPoint%202016-orange/?color=orange)
+![](https://img.shields.io/badge/MOS-Microsoft%20Word%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
+![](https://img.shields.io/badge/MOS-Microsoft%20Excel%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
+![](https://img.shields.io/badge/MOS-Microsoft%20PowerPoint%202016-orange/?logo=windows&color=orange&logoColor=FFFFFF)
