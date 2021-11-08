@@ -5,9 +5,10 @@
 Hey, my name is Cody Wellman and I am a software developer aswell as a computer builder/enthusiast. I am currently working on my Associates in Computer Networking Systems and Security. I am also on FRC Team 3602, The RoboMos.
 
 ## ⚙️ Technologies
-![](https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/OS-macOS-orange/?logo=apple&color=orange&logoColor=FFFFFF)
-![](https://img.shields.io/badge/OS-Windows-orange/?logo=windows&color=orange&logoColor=FFFFFF)
+<a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF" /></a>
+<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/OS-macOS-orange/?logo=apple&color=orange&logoColor=FFFFFF" /></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/OS-Windows-orange/?logo=windows&color=orange&logoColor=FFFFFF" /></a>
+
 ![](https://img.shields.io/badge/Editor-VS%20Code-orange/?logo=visual%20studio%20code&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Code-Python-orange/?logo=python&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Code-Java-orange/?logo=java&color=orange&logoColor=FFFFFF)
@@ -27,5 +28,3 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 ![](https://img.shields.io/badge/MTA-Security%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/MTA-Mobility%20and%20Device%20Fundamentals-orange/?logo=windows&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Certiport-Communication%20Skills%20for%20Business-orange/?color=orange)
-
-<a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF" /></a>
