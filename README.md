@@ -1,5 +1,8 @@
 [![Header](https://raw.githubusercontent.com/zagdrath/Zagdrath/main/readme-header.png "Header")](https://www.codexsystems.us/)
 
+# About Me
+Hey, my name is Cody Wellman
+
 ## ⚙️ Technologies
 ![](https://img.shields.io/badge/OS-Linux-orange/?logo=linux&color=orange&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/OS-macOS-orange/?logo=apple&color=orange&logoColor=FFFFFF)
