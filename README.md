@@ -8,8 +8,6 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 <a href="https://instagram.com/zagdrath"><img src="https://img.shields.io/badge/Instagram-Profile-fe8019/?logo=instagram&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 <a href="https://www.youtube.com/channel/UCAnDOqIWKDbmEhDOZAhkV7w"><img src="https://img.shields.io/badge/YouTube-Profile-fe8019/?logo=youtube&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 
-[![](fsf-badge.png)](https://www.fsf.org/)
-
 ## ⚙️ Technologies
 <a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-fe8019/?logo=linux&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/OS-macOS-fe8019/?logo=apple&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
