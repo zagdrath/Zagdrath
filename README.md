@@ -26,3 +26,5 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zagdrath&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zagdrath&theme=gruvbox)
+
+![](fsf-badge.png)
