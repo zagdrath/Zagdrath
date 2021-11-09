@@ -21,6 +21,7 @@ Hey, my name is Cody Wellman and I am a software developer aswell as a computer 
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell-Bash-fe8019/?logo=gnu%20bash&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Tools-Git-fe8019/?logo=git&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Tools-GitHub-fe8019/?logo=github&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Tools-MySQL-fe8019/?logo=MySQL&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zagdrath&show_icons=true&theme=gruvbox)
