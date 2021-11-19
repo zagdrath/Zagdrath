@@ -2,7 +2,7 @@
 
 ## 📋 About Me
 
-Hey, my name is Cody Wellman and I am a software developer aswell as a computer builder/enthusiast. I am currently working on my Associates in Computer Networking Systems and Security. I am also on FRC Team 3602, The RoboMos. You can find my other social media below.
+Hey, my name is Cody Wellman and I am a software developer aswell as a computer builder / enthusiast. I am currently working on my Associates in Computer Networking Systems and Security. I am also on FRC Team 3602, The RoboMos. You can find my other social media below.
 
 <a href="https://twitter.com/zagdrath"><img src="https://img.shields.io/badge/Twitter-Profile-fe8019/?logo=twitter&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 <a href="https://instagram.com/zagdrath"><img src="https://img.shields.io/badge/Instagram-Profile-fe8019/?logo=instagram&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
