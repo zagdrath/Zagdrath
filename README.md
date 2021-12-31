@@ -6,7 +6,7 @@ Hey, my name is Cody Wellman, but I usually go by Zagdrath online and, I am an i
 
 <a href="https://twitter.com/zagdrath"><img src="https://img.shields.io/badge/Twitter-Profile-fe8019/?logo=twitter&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 <a href="https://instagram.com/zagdrath"><img src="https://img.shields.io/badge/Instagram-Profile-fe8019/?logo=instagram&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
-<a href="https://www.youtube.com/channel/UCAnDOqIWKDbmEhDOZAhkV7w"><img src="https://img.shields.io/badge/YouTube-Profile-fe8019/?logo=youtube&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
+
 
 ## ⚙️ Technologies
 <a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-fe8019/?logo=linux&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
