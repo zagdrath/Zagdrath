@@ -2,11 +2,11 @@
 
 ## 📋 About Me
 
-Hey, my name is Cody Wellman, but I usually go by Zagdrath online and, I am an information technology specialist working towards getting my associate's degree in computer networking systems and security. On the side, I am also a software developer, but that is mainly just a hobby. I am also a huge advocate of free software and the GNU/Linux operating systems. I am currently on FIRST FRC Team 3602, The RoboMos. You can find my other social media below.
+Hey, my name is Cody Wellman, but I usually go by Zagdrath online and, I am an information technology specialist working towards getting my associate's degree in computer networking systems and security. On the side, I am also a software developer, but that is mainly just a hobby. I am also a huge advocate of free software and the GNU/Linux operating systems. I am currently on FIRST FRC Team 3602, The RoboMos. You can find my contacts below.
 
 <a href="https://twitter.com/zagdrath"><img src="https://img.shields.io/badge/Twitter-Profile-fe8019/?logo=twitter&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
-<a href="https://instagram.com/zagdrath"><img src="https://img.shields.io/badge/Instagram-Profile-fe8019/?logo=instagram&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 
+<a href="mailto:zagdrath@member.fsf.org"><img src="https://img.shields.io/badge/Email-zagdrath@member.fsf.org-fe8019/?logo=mail.ru&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
 
 ## ⚙️ Technologies
 <a href="https://linux.org/"><img src="https://img.shields.io/badge/OS-Linux-fe8019/?logo=linux&color=fe8019&logoColor=FFFFFF&labelColor=282828" /></a>
