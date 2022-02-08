@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/zagdrath/Zagdrath/main/header.png "Header")](https://www.zagdrath.xyz/)
+[![Header](https://raw.githubusercontent.com/zagdrath/Zagdrath/main/header.png "Header")](https://www.zagdrath.dev/)
 
 ## 📋 About Me
 
