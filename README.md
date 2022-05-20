@@ -1,5 +1,5 @@
 ## About Me
-Hey, my name is Cody Wellman. I am currently a Bay College Information Technology student in located in the great Upper Peninsula of Michigan.
+Hey, my name is Cody Wellman and I grew up in a small town in the great Upper Peninsula of Michigan. I am currently a student at Bay de Noc Community College studying computer networking systems and security. 
 
 ## My Skills
 These are all of the skills I possess, including my knowledge of certain languages and hardware.
