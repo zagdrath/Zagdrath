@@ -1,1 +1,3 @@
-IT Technician, Software & Hardware Engineer
+Radio, Electronics, Telecom Geek
+
+IT Technician & Software Developer
