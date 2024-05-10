@@ -1,1 +1,1 @@
-it technician, software developer, hobby electrical/rf engineer, ween enjoyer
+Network Technician, Software/Hardware Developer, Ween Enjoyer
