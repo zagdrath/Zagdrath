@@ -1,1 +1,1 @@
-Network Technician, Software/Hardware Developer, Ween Enjoyer
+Network Technician, Software/Hardware Developer
